@@ -2,7 +2,7 @@
 
 **`Fullstack-utvecklare | JavaScript & React | OutSystems Trainee på Hilja`**
 
-**Fullstack-utvecklare specialiserad på JavaScript. Med erfarenhet från både komplexa webbprojekt i React/Next.js, TypeScript och low-code-lösningar i OutSystems, skapar jag stabila och skalbara digitala tjänster.** 
+**Fullstack-utvecklare specialiserad på JavaScript. Med erfarenhet från både komplexa webbprojekt i React/Next.js och low-code-lösningar i OutSystems, skapar jag stabila och skalbara digitala tjänster.** 
 
 
 ## Tech stack
